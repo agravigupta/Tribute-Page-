@@ -1,0 +1,52 @@
+#div1{
+  padding: 80px 
+ }
+#main{
+ background-color:#F0E68C	; 
+}
+#img-caption{
+  color: white;
+}
+#div2{
+  background-color: pink;
+}
+#image{
+  width: 100%;
+  height: auto;
+  max-width: 825px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  align-content: center;
+  
+}
+#division{
+  background: linear-gradient(90deg, rgba(2,0,36,1)0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  margin: 20px;
+   
+}
+
+#tribute-info{
+  background:  radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+   margin: 30px;	;
+  padding: 40px;
+}
+#divv{
+  color: white;
+}
+h2{
+  color: white;
+}
+a:link {
+  color: green;
+  text-decoration: none;
+}
+a:visited {
+  color: #00FFFF;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: red;
+}
