@@ -1,8 +1,6 @@
 # Tribute-Page-
 # Free Code Camp (FCC) project of responsive web designing
- <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-<body id="main">
+ <body id="main">
 <div  id="division">
   <div id="div1">
     <div id="div2">
